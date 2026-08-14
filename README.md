@@ -74,36 +74,6 @@ Sou desenvolvedor focado em **Desenvolvimento Web & Mobile**, criando aplicaçõ
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </div>
 
----
-
-### ⭐ Alguns números do GitHub
-
-<div align="center">
-
-  <p align="center">
-    <a href="https://github.com/arthurbritol">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurbritol&theme=dark&background=0D1117&border=30363D&stroke=7EE787&ring=7EE787&fire=7EE787&currStreakNum=7EE787&sideNums=FFFFFF&currStreakLabel=7EE787" alt="GitHub Streak" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/arthurbritol">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurbritol&theme=github-compact&bg_color=0D1117&color=7EE787&line=7EE787&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/arthurbritol">
-      <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arthurbritol&show_icons=true&theme=dark&bg_color=0D1117&title_color=7EE787&text_color=FFFFFF&icon_color=7EE787&border_color=30363D" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/arthurbritol">
-      <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthurbritol&layout=compact&theme=dark&bg_color=0D1117&title_color=7EE787&text_color=FFFFFF&border_color=30363D" alt="Top Languages" />
-    </a>
-  </p>
-
-</div>
-
----
 
 <div align="center">
   <sub>Desenvolvido por <a href="https://github.com/arthurbritol">Arthur Brito Lucio</a></sub>
